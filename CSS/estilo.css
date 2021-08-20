@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body {
   background-color: #FCC30B
 }
 h1{
   color: #FA630B
   font-family: 'Alumni Sans', sans-serif;
+}
+
+p{
+ font-family: 'Pacifico', cursive; 
 }
